@@ -30,5 +30,3 @@ If you need further assistance, please contact us via email at [support@cukcuk.v
 We are delighted to support you. Feel free to share your feedback or suggestions with us.
 
 Thank you!
-
-![Thank You](https://yourdomain.com/images/thank_you.png)
