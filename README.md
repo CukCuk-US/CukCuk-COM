@@ -17,6 +17,13 @@ To download a file, simply click the corresponding link. If you encounter any is
 | **CukCuk Mobile Manager** | R116 | [Download](https://github.com/CukCuk-US/CUKCUK-COM/releases/download/R116/Manager_R116.apk) |
 | **CukCuk Mobile KDS** | R116 | [Download](https://github.com/CukCuk-US/CUKCUK-COM/releases/download/R116/KDS_R116.apk) |
 
+### Version R115
+
+| Application | Version | Download |
+|---|---|---|
+| **CukCuk Mobile Sales** | R115 | [Download](https://github.com/CukCuk-US/CUKCUK-COM/releases/download/R115/Sales_R115.apk) |
+| **CukCuk Mobile Manager** | R115 | [Download](https://github.com/CukCuk-US/CUKCUK-COM/releases/download/R115/Manager_R115.apk) |
+
 ---
 
 ## 📧 **Contact Support**
