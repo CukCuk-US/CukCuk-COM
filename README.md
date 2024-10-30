@@ -9,6 +9,13 @@ To download a file, simply click the corresponding link. If you encounter any is
 
 ## 🗂️ **Installation Files**
 
+### Version R118
+
+| Application | Version | Download |
+|---|---|---|
+| **CukCuk Mobile Sales** | R118 | [Download](https://github.com/CukCuk-US/CUKCUK-COM/releases/download/R118/Sale_R118_0_0_0.apk) |
+| **CukCuk Mobile KDS** | R118 | [Download](https://github.com/CukCuk-US/CUKCUK-COM/releases/download/R118/KDS_R118_0_0_0.apk) |
+
 ### Version R117
 
 | Application | Version | Download |
