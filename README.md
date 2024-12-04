@@ -35,7 +35,7 @@ To download a file, simply click the corresponding link. If you encounter any is
 | Application | Version | Download |
 |---|---|---|
 | **CukCuk Mobile Sales** | R119 | [Download](https://github.com/CukCuk-US/CUKCUK-COM/releases/download/R119/Sales_R119_0_0_0.apk) |
-| **CukCuk Mobile Manager** | R119 | [Download](https://github.com/CukCuk-US/CUKCUK-COM/releases/download/R119/Manager_R119_0_0_0.apk) |
+| **CukCuk Mobile Manager** | R119 | [Download](https://github.com/CukCuk-US/CUKCUK-COM/releases/download/R119/Manager_R119_0_0_1.apk) |
 
 
 ### Version R118
