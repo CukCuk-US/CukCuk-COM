@@ -34,7 +34,7 @@ To download a file, simply click the corresponding link. If you encounter any is
 
 | Application | Version | Download |
 |---|---|---|
-| **CukCuk Mobile Sales** | R120 | [Download](https://github.com/CukCuk-US/CUKCUK-COM/releases/download/R120/Sales_R120_0_0_0.apk) |
+| **CukCuk Mobile Sales** | R120 | [Download](https://github.com/CukCuk-US/CUKCUK-COM/releases/download/R120/Sale_R120_0_0_0.apk) |
 
 ### Version R119
 
