@@ -30,7 +30,17 @@ To download a file, simply click the corresponding link. If you encounter any is
 
 ## 🗂️ **Installation Files**
 
-### Version R122
+### Lastest Version
+
+| Application | Version | Download |
+|---|---|---|
+| **CukCuk Mobile Sales** | R124 | [Download](https://github.com/CukCuk-US/CUKCUK-COM/releases/download/R122/Sales_R124_0_0_0.apk) |
+| **CukCuk Mobile Manager** | R122 | [Download](https://github.com/CukCuk-US/CUKCUK-COM/releases/download/R122/Manager_R122_0_0_0.apk) |
+| **CukCuk Mobile KDS** | R122 | [Download](https://github.com/CukCuk-US/CUKCUK-COM/releases/download/R122/KDS_R122_0_0_0.apk) |
+
+---
+
+### Version R124
 
 | Application | Version | Download |
 |---|---|---|
