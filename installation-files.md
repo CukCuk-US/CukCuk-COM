@@ -2,6 +2,12 @@
   
 | Application | Version | Download |
 |---|---|---|
+| **CukCuk Mobile Sales** | R126 | [Download](https://github.com/CukCuk-US/CukCuk-COM/releases/download/R126/Sales_R126_0_0_0.apk) |
+
+### Version R125
+  
+| Application | Version | Download |
+|---|---|---|
 | **CukCuk Mobile Sales** | R125 | [Download](https://github.com/CukCuk-US/CUKCUK-COM/releases/download/R125/Sales_R125_0_0_0.apk) |
 | **CukCuk Mobile Manager** | R125 | [Download](https://github.com/CukCuk-US/CUKCUK-COM/releases/download/R125/Manager_R125_0_0_0.apk) |
 
