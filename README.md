@@ -34,9 +34,9 @@ To download a file, simply click the corresponding link. If you encounter any is
 
 | Application | Version | Download |
 |---|---|---|
-| **CukCuk Mobile Sales** | R126 | [Download](https://github.com/CukCuk-US/CUKCUK-COM/releases/download/R126/Sales_R126_0_0_0.apk) |
-| **CukCuk Mobile Manager** | R125 | [Download](https://github.com/CukCuk-US/CUKCUK-COM/releases/download/R125/Manager_R125_0_0_0.apk) |
-| **CukCuk Mobile KDS** | R122 | [Download](https://github.com/CukCuk-US/CUKCUK-COM/releases/download/R122/KDS_R122_0_0_0.apk) |
+| **CukCuk Mobile Sales** | R127 | [Download](https://github.com/CukCuk-US/CUKCUK-COM/releases/download/R127/Sales_R127_0_0_0.apk) |
+| **CukCuk Mobile Manager** | R127 | [Download](https://github.com/CukCuk-US/CUKCUK-COM/releases/download/R127/Manager_R127_0_0_0.apk) |
+| **CukCuk Mobile KDS** | R127 | [Download](https://github.com/CukCuk-US/CUKCUK-COM/releases/download/R127/KDS_R127_0_0_0.apk) |
 | **CukCuk Mobile DIB** | R111 | [Download](https://github.com/CukCuk-US/CUKCUK-COM/releases/download/R111/DIB_R111_0_0_0.apk) |
 
 ### Old Versions
