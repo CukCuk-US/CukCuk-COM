@@ -2,7 +2,7 @@
 
 | Application | Version | Download |
 |---|---|---|
-| **CukCuk Mobile Sales** | R128 | [Download](https://github.com/CukCuk-US/CUKCUK-COM/releases/download/R128/Sales_R128_0_0_0.apk) |
+| **CukCuk Mobile Sales** | R128.1 | [Download](https://github.com/CukCuk-US/CUKCUK-COM/releases/download/R128/Sales_R128_1_0_0.apk) |
 | **CukCuk Mobile Manager** | R128 | [Download](https://github.com/CukCuk-US/CUKCUK-COM/releases/download/R128/Manager_R128_0_0_0.apk) |
 | **CukCuk Mobile KDS** | R128 | [Download](https://github.com/CukCuk-US/CUKCUK-COM/releases/download/R128/KDS_R128_0_0_0.apk) |
 
