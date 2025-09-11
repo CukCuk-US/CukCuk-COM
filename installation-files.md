@@ -1,3 +1,10 @@
+### Version R129
+
+| Application | Version | Download |
+|---|---|---|
+| **CukCuk Mobile Sales** | R129 | [Download](https://github.com/CukCuk-US/CUKCUK-COM/releases/download/R129/Sales_R129_0_0_0.apk) |
+| **CukCuk Mobile Manager** | R129 | [Download](https://github.com/CukCuk-US/CUKCUK-COM/releases/download/R129/Manager_R129_0_0_0.apk) |
+
 ### Version R128
 
 | Application | Version | Download |
