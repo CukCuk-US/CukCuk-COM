@@ -2,6 +2,15 @@
 
 | Application | Version | Download |
 |---|---|---|
+| **CukCuk Mobile Sales** | R133 | [Download](https://github.com/CukCuk-US/CUKCUK-COM/releases/download/R133/Sales_R133_0_0_0.apk) |
+| **CukCuk Mobile Manager** | R133 | [Download](https://github.com/CukCuk-US/CUKCUK-COM/releases/download/R133/Manager_R133_0_0_0.apk) |
+| **CukCuk Mobile KDS** | R133 | [Download](https://github.com/CukCuk-US/CUKCUK-COM/releases/download/R133/KDS_R133_0_0_0.apk) |
+
+
+### Version R132
+
+| Application | Version | Download |
+|---|---|---|
 | **CukCuk Mobile Sales** | R132 | [Download](https://github.com/CukCuk-US/CUKCUK-COM/releases/download/R132/Sales_R132_0_0_1.apk) |
 | **CukCuk Mobile Manager** | R132 | [Download](https://github.com/CukCuk-US/CUKCUK-COM/releases/download/R132/Manager_R132_0_0_0.apk) |
 | **CukCuk Mobile KDS** | R132 | [Download](https://github.com/CukCuk-US/CUKCUK-COM/releases/download/R132/KDS_R132_0_0_1.apk) |
