@@ -1,4 +1,11 @@
-### Version R132
+### Version R134
+
+| Application | Version | Download |
+|---|---|---|
+| **CukCuk Mobile Sales** | R134 | [Download](https://github.com/CukCuk-US/CUKCUK-COM/releases/download/R134/Sales_R134_0_0_0.apk) |
+| **CukCuk Mobile Manager** | R134 | [Download](https://github.com/CukCuk-US/CUKCUK-COM/releases/download/R134/Manager_R134_0_0_0.apk) |
+
+### Version R133
 
 | Application | Version | Download |
 |---|---|---|
