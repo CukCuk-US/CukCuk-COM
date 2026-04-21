@@ -34,7 +34,7 @@ To download a file, simply click the corresponding link. If you encounter any is
 
 | Application | Version | Download |
 |---|---|---|
-| **CukCuk Mobile Sales** | R134 | [Download](https://github.com/CukCuk-US/CUKCUK-COM/releases/download/R134/Sales_R134_0_0_0.apk) |
+| **CukCuk Mobile Sales** | R135 | [Download](https://github.com/CukCuk-US/CUKCUK-COM/releases/download/R135/Sales_R135_0_0_0.apk) |
 | **CukCuk Mobile Manager** | R134 | [Download](https://github.com/CukCuk-US/CUKCUK-COM/releases/download/R134/Manager_R134_0_0_0.apk) |
 | **CukCuk Mobile KDS** | R133 | [Download](https://github.com/CukCuk-US/CUKCUK-COM/releases/download/R133/KDS_R133_0_0_0.apk) |
 | **CukCuk Mobile DIB** | R111 | [Download](https://github.com/CukCuk-US/CUKCUK-COM/releases/download/R111/DIB_R111_0_0_0.apk) |
