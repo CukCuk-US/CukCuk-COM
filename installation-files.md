@@ -1,3 +1,9 @@
+### Version R135
+
+| Application | Version | Download |
+|---|---|---|
+| **CukCuk Mobile Sales** | R135 | [Download](https://github.com/CukCuk-US/CUKCUK-COM/releases/download/R135/Sales_R135_0_0_0.apk) |
+
 ### Version R134
 
 | Application | Version | Download |
